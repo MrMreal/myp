@@ -19,5 +19,17 @@
     "eslint-config-next": "12.1.0",
     "postcss": "^8.4.12",
     "tailwindcss": "^3.0.23"
-  }
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "next.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrMreal/myp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrMreal/myp/issues"
+  },
+  "homepage": "https://github.com/MrMreal/myp#readme"
 }
