@@ -16,7 +16,11 @@ class MyDocument extends Document {
       lang="en"
     >
       <Head />
-      <body aria-expanded="false" cz-shortcut-listen="true">
+      <body
+        aria-expanded="false"
+        cz-shortcut-listen="true"
+        className="antialiased"
+      >
         <Main />
         <NextScript />
       </body>
