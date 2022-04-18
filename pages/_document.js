@@ -23,6 +23,7 @@ class MyDocument extends Document {
       >
         <Main />
         <NextScript />
+        <script src="twel.js"></script>
       </body>
     </Html>
   );
